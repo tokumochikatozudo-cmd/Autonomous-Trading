@@ -1,0 +1,39 @@
+{
+  "trades": [
+    {
+      "id": 1,
+      "timestamp": "2026-07-02T14:16:57.358425",
+      "date": "2026-07-02",
+      "action": "BUY",
+      "regime": "Choppy (Moderate)",
+      "allocation": 0.9,
+      "entry_price": 60238.5,
+      "qty": 0.64703055,
+      "usd_value": 38976.15,
+      "fee_paid": 38.97615,
+      "portfolio_before": 110238.5,
+      "pnl": 35.885285,
+      "notes": "MID vol | Choppy (Mode",
+      "exit_price": 60354.2,
+      "pnl_pct": 0.1921,
+      "portfolio_after": 110391.175,
+      "closed_at": "2026-07-02T15:16:57.875164"
+    },
+    {
+      "id": 2,
+      "timestamp": "2026-07-02T18:17:06.266374",
+      "date": "2026-07-02",
+      "action": "SELL",
+      "regime": "Turbulent (High Volatility)",
+      "allocation": 0.2,
+      "entry_price": 61278.6,
+      "qty": 1.2811117,
+      "usd_value": 78502.297,
+      "fee_paid": 78.502297,
+      "portfolio_before": 111913.0915,
+      "pnl": null,
+      "notes": "MID vol | Turbulent (H"
+    }
+  ],
+  "last_updated": "2026-07-02T18:17:06.267393"
+}
